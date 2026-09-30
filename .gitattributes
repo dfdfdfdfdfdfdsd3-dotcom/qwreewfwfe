@@ -1,0 +1,2 @@
+*.jar filter=lfs diff=lfs merge=lfs -text
+icevisual-1.0.0.jar -filter -diff -merge -text
